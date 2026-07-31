@@ -13,6 +13,7 @@
   - [Tools](#tools)
     - [Red Team](#red-team)
     - [Purple Team](#purple-team)
+[Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open-source (GPL-3.0) autonomous AI penetration-testing platform; per-technology offensive sub-agents run full engagements across web, API, Active Directory and Kubernetes over MCP, with every finding mapped to MITRE ATT&CK and backed by an evidence trail, useful for validating detection coverage against real attacker activity.
     - [Adversary Emulation](#adversary-emulation)
 - [Threat Hunting](#threat-hunting)
   - [Resources](#resources-1)
